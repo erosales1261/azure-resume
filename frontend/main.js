@@ -1,4 +1,4 @@
-windows.addEventListener('DOMContentLoaded', (event) => {
+window.addEventListener('DOMContentLoaded', (event) => {
     getVisitCount();
 })
 
